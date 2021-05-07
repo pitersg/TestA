@@ -19,7 +19,7 @@ The files created for the exercsice are the following ones:
 -Test for automation skills
 	Last page of the guidelines has been filled (General knowledge chapter)
 	
-- Exercise A3.md
+- Issue Template and Example.xlsx
     Text File in which is specified the procedure to open and notify a bug
 	
 
@@ -60,6 +60,12 @@ The procedure to open a bug has been specified within the file "exercise A3.md"
 
 EXERCISE A: Part 4 CLARIFICATIONS
 ----------------------------------
-Filled in the document provided.
+Filled in the document "Issue Template and Example.xlsx"
+
+As there is no Defect Management system defined I decided to use JIRA. The use of this tool will allow the system to track and identify different type of issues.
+
+There is 2 sheets within the document
+- Template
+- Example of a Non-Functional Test found : The filter Category does not filter correctly the products
 
  
